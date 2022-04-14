@@ -2699,6 +2699,12 @@
   (gr_line (start 197.104 81.534) (end 197.104 141.224) (layer "Edge.Cuts") (width 0.1) (tstamp ad61a413-8742-4c2b-ab7b-555586405898))
   (gr_arc (start 193.548 77.978) (mid 196.062472 79.019528) (end 197.104 81.534) (layer "Edge.Cuts") (width 0.1) (tstamp e4944989-5bee-4148-b9f7-a0b5b1b123cc))
   (gr_line (start 161.036 141.224) (end 161.036 81.534) (layer "Edge.Cuts") (width 0.1) (tstamp fead759a-986a-4915-98a2-b84e89ffc36f))
+  (gr_text "Magslide Controller RP2040 Rev. 1" (at 170.1 130.5 270) (layer "F.SilkS") (tstamp 2c488c90-f773-4c2e-b986-7c0f5e3dcb68)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (gr_text "By Philip K. Gisslow" (at 167.9 136 270) (layer "F.SilkS") (tstamp ee4f1d89-1946-4c26-adf1-372cdfb67fd3)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
 
   (segment (start 184.747 86.145) (end 184.747 85.5598) (width 0.2) (layer "F.Cu") (net 1) (tstamp 01e2882a-6491-49d6-b2e1-e6db7c8ba825))
   (segment (start 171.200801 109.794184) (end 171.015 109.608383) (width 0.2) (layer "F.Cu") (net 1) (tstamp 043a25eb-cc2c-4be4-94e5-775648a7d835))
