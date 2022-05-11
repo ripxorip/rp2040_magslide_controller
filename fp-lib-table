@@ -2,4 +2,5 @@
   (lib (name "local")(type "KiCad")(uri "${KIPRJMOD}/local.pretty")(options "")(descr ""))
   (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
   (lib (name "misc")(type "KiCad")(uri "${KIPRJMOD}/misc.pretty")(options "")(descr ""))
+  (lib (name "magslide_keys")(type "KiCad")(uri "${KIPRJMOD}/magslide_keys.pretty")(options "")(descr ""))
 )

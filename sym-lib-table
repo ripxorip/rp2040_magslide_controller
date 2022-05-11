@@ -3,4 +3,5 @@
   (lib (name "MCU_RaspberryPi_and_Boards")(type "Legacy")(uri "${KIPRJMOD}/MCU_RaspberryPi_and_Boards.lib")(options "")(descr ""))
   (lib (name "Memory_Flash_Extra")(type "Legacy")(uri "${KIPRJMOD}/Memory_Flash_Extra.lib")(options "")(descr ""))
   (lib (name "misc")(type "KiCad")(uri "${KIPRJMOD}/misc.kicad_sym")(options "")(descr ""))
+  (lib (name "magslide")(type "KiCad")(uri "${KIPRJMOD}/magslide.kicad_sym")(options "")(descr ""))
 )
