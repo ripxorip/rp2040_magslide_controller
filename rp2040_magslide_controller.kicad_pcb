@@ -2289,12 +2289,13 @@
       ) (tstamp 23240ff9-9b4a-4021-af0b-361dc33e9cef))
   )
 
-  (gr_arc (start 176.64 107.707) (mid 176.847076 107.207076) (end 177.347 107) (layer "Edge.Cuts") (width 0.2) (tstamp 17489e91-5716-45eb-b85a-49a63ca5d15b))
-  (gr_arc (start 180.64 110.254033) (mid 178.64 126) (end 176.64 110.254033) (layer "Edge.Cuts") (width 0.2) (tstamp 2f2fc309-b326-45b7-b2da-73ae008eae37))
-  (gr_arc (start 179.933 107) (mid 180.432924 107.207076) (end 180.64 107.707) (layer "Edge.Cuts") (width 0.2) (tstamp 6a0b095a-908e-4e68-9328-20e04dad88d9))
-  (gr_line (start 176.64 110.254033) (end 176.64 107.707) (layer "Edge.Cuts") (width 0.2) (tstamp 6ca1a2d5-3473-429a-8ea4-cc85fa6cde46))
-  (gr_line (start 177.347 107) (end 179.933 107) (layer "Edge.Cuts") (width 0.2) (tstamp af49849b-bfb5-4e64-9271-11bc1da3e716))
-  (gr_line (start 180.64 107.707) (end 180.64 110.254033) (layer "Edge.Cuts") (width 0.2) (tstamp fc0b1985-046f-4099-90ce-dd269aaab7b0))
+  (gr_arc (start 176.64 107.707) (mid 176.847076 107.207076) (end 177.347 107) (layer "Cmts.User") (width 0.2) (tstamp 17489e91-5716-45eb-b85a-49a63ca5d15b))
+  (gr_arc (start 180.64 110.254033) (mid 178.64 126) (end 176.64 110.254033) (layer "Cmts.User") (width 0.2) (tstamp 2f2fc309-b326-45b7-b2da-73ae008eae37))
+  (gr_arc (start 179.933 107) (mid 180.432924 107.207076) (end 180.64 107.707) (layer "Cmts.User") (width 0.2) (tstamp 6a0b095a-908e-4e68-9328-20e04dad88d9))
+  (gr_line (start 176.64 110.254033) (end 176.64 107.707) (layer "Cmts.User") (width 0.2) (tstamp 6ca1a2d5-3473-429a-8ea4-cc85fa6cde46))
+  (gr_line (start 177.347 107) (end 179.933 107) (layer "Cmts.User") (width 0.2) (tstamp af49849b-bfb5-4e64-9271-11bc1da3e716))
+  (gr_line (start 180.64 107.707) (end 180.64 110.254033) (layer "Cmts.User") (width 0.2) (tstamp fc0b1985-046f-4099-90ce-dd269aaab7b0))
+  (gr_circle (center 178.65 118) (end 186.65 118) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 8576a951-2396-4645-80d7-1ab2bf7d6ef1))
 
   (group "" (id 77a3b364-4c8d-4259-85bb-745950c993c8)
     (members
