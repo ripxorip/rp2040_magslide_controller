@@ -3392,7 +3392,7 @@
     (property "Value" "100nF" (id 1) (at 208.28 34.2962 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 205.74 33.02 0)
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (id 2) (at 205.74 33.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 205.74 33.02 0)
@@ -3793,7 +3793,7 @@
       (reference "C17") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/cc9cebe2-9d12-4fc5-bd7f-48e9932ba62c"
-      (reference "C18") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C18") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/10913d2a-ae41-45bd-87e4-e0e08e2ac266"
       (reference "C19") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
